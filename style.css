@@ -65,12 +65,14 @@ font-size: 32px;
     background-color: var(--fundo-texto);
     border: 2px solid var(--borda);
     margin-top: 32px;
+    padding: 24px;
 }
 
 .parametro-titulo{
     font-family: var(--roboto-mono);
     font-size: 28px;
     padding: 24px;
+    
 }
 
 .parametro-senha__titulo{
